@@ -76,15 +76,27 @@ header {
     margin-left: 320px;
 }
 
+p {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.titlar {
+    font-family: 'Special Elite', cursive;
+}
+
+.symbol {
+    width: 30px;
+    height: 30px;
+}
+
 .textDiv {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding: 80px;
-    margin-left: 40px;
+    margin-left: 50px;
     margin-right: 40px;
-    text-align: center;
 }
 
 .rubrik {
@@ -93,18 +105,23 @@ header {
 }
 
 .textContainer {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Nanum Myeongjo', serif;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     margin-left: 100px;
     margin-right: 80px;
 
 }
 
+.startpageText {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
 .climbImg {
     
-    width: 50%;
+    width: 70%;
     height: auto;
     object-fit: cover;
     border-radius: 100px;
@@ -118,10 +135,11 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-left: 180px;
+    margin-left: 100px;
 }
 
 .climbBox {
+    width: 50%;
     display: flex;
     justify-content: center;
     padding-top: 40px; 
@@ -160,6 +178,7 @@ margin-right: 15px;
 }
 
 .sectionContainer {
+    font-family: 'Nanum Myeongjo', serif;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -305,4 +324,18 @@ margin-right: 15px;
     line-height: 1.5;
     text-align: center;
     margin-top: 40px;
+}
+
+
+.checked {
+    color: rgb(125, 170, 196);
+}
+
+.ratingBox {
+    
+    display: flex;
+    flex-direction: row;
+    margin-left: 350px;
+    gap: 10px; 
+    padding: 15px;
 }
