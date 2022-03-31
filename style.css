@@ -66,8 +66,8 @@ header {
 }
 
 .computerImg {
-    width: 100%;
-    height: 400px;
+    width: 90%;
+    height: 350px;
     display: flex;
     justify-content: center;
 }
@@ -121,7 +121,7 @@ p {
 
 .climbImg {
     
-    width: 70%;
+    width: 60%;
     height: auto;
     object-fit: cover;
     border-radius: 100px;
@@ -154,12 +154,12 @@ p {
 
 
 .blogIcon {
-    width: 800px;
+    width: 600px;
 }
 
 .row {
     display: flex;
-    margin: 60px; 
+    margin: 100px; 
     border: 2px solid black;
     padding: 10px;
     border-radius: 25px;
