@@ -1,5 +1,6 @@
 # HomeWork-Blog
 Skapa en mindre webbplats med hjälp av HTML/CSS/JavaScript.
+Link to repo: https://aminahallam.github.io/HomeWork-Blog/
 
 Sida: Startsida
 •Har minst en bild 
